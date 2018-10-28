@@ -14,6 +14,9 @@ The 3D environment contains 20 double joined arms agents who can move freely to 
 ### Goal
 The goal is to control the 20 arms to move to their individual target locations and keep them there as many time steps as possible.
 
+### Environment Solved Criteria
+ The environment is considered solved when the average mean score of all agents reach 30+ in the last 100 epsisodes.
+ 
 ### Rewards
 A reward of +0.1 is provided for each step that each agent's hand is in the goal location independently.
 
