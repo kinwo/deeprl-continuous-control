@@ -1,8 +1,15 @@
 # Continuous Control using Deep Reinforcement Learning on Unity ML Agent
 
 ## Introduction
+This repository contains a Deep Deterministic Policy Gradients (DDPG) agent running in the Unity ML Agent Reacher(https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. It can be used to train and evaluate the result of the training.
+
+I use it for the purpose of learning DDPG agent in the context of continuous control of a agent.
+
+The DDPG is implemented in Python 3 using PyTorch.
+
 
 ### Environment
+
 
 ### Goal
 
