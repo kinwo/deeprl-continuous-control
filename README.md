@@ -7,6 +7,7 @@ I use it for the purpose of learning DDPG agent in the context of continuous con
 
 The DDPG is implemented in Python 3 using PyTorch.
 
+The full report can be found here. (https://github.com/kinwo/deeprl-continuous-control/blob/master/Report.pdf)
 
 ### Environment
 The 3D environment contains 20 double joined arms agents who can move freely to reach the target locations.
@@ -37,7 +38,7 @@ https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
-Then unzip the file and place the file in this folder.
+Then unzip the file and place the file in this project folder.
 
 3. Create Conda Environment   
 
