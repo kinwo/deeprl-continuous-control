@@ -1,5 +1,7 @@
 # Continuous Control using Deep Reinforcement Learning on Unity ML Agent
 
+![Agents](https://github.com/kinwo/deeprl-continuous-control/blob/master/AgentUnityScreenshot.png)
+
 ## Introduction
 This repository contains a Deep Deterministic Policy Gradients (DDPG) agent running in the Unity ML Agent Reacher(https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. It can be used to train and evaluate the result of the training.
 
